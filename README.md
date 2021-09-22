@@ -13,3 +13,39 @@ https://www.google.com/intl/en/chrome/
 يجب عليك استخدام متصفح الويب Google أدناه لاستخدام هذا.
 https://www.google.com/intl/ar/chrome/
 
+
+parallel-kjv(asv)-commentary
+https://worlddic.com/xe/view_file3.php?folder=sermon3&file=KJV-Adam_Cla_matthew_1.html#googtrans(ar) 
+
+parallel-kjv(asv)-commentary
+https://worlddic.com/xe/view_file4.php?folder=sermon5&file=KJV-Adam_Cla_matthew_1.html#googtrans(ar)
+
+30-Bible-Commentaries
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Spur%20Ex#googtrans(ar) Spurgeon's Verse Expositions 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Spurgeon%20Ser#googtrans(ar) Spurgeon's Sermons 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Spurgeon%20Daily#googtrans(ar) Spurgeon's Daily devotion 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Matt%20Hen%20Wh#googtrans(ar) Matthew Henry's Complete 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Matt%20Hen%20Con#googtrans(ar) Matthew Henry's Concise 
+
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Calvin#googtrans(ar) Calvin's Commentary  
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Pulpit#googtrans(ar) The Pulpit Commentaries 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Scofield#googtrans(ar) Scofield's Reference Notes  
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Wesley#googtrans(ar) Wesley's Explanatory Notes 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Adam#googtrans(ar) Cla Adam Clarke Commentary 
+
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Albert#googtrans(ar) Albert Barnes' Notes 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Joseph#googtrans(ar) Joseph Benson's Commentary 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Bridgeway#googtrans(ar) The Bridgeway Bible Commentary 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Bullinger#googtrans(ar) E.W. Bullinger's Companion 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Dr#googtrans(ar) Thomas Dr.Thomas Constable 
+ 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Thomas#googtrans(ar) Coke Thomas Coke Commentary 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=John#googtrans(ar) Gill John Gill's Exposition 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Critical#googtrans(ar) Commentary Critical and Explanatory 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=John#googtrans(ar) Dum John Dummelow's Commentary 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Geneva#googtrans(ar) Geneva Study Bible 
+ 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Ellicott#googtrans(ar) Ellicott's Commentary 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Arno#googtrans(ar) Arno Gaebelein's Annotated Bible 
+ https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=James#googtrans(ar) James Gray 
+ 
