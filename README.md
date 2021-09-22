@@ -1,4 +1,4 @@
-110000-Arabic-Sermons-Parallel-Commentaries 
+# 110000-Arabic-Sermons-Parallel-Commentaries 
 https://worlddic.com/xe/file_list.php?folder=sermon1#googtrans(ar) 
 This is 110,000 Sermons and Parallel 30 Commentaries for preaching. This will be of help to your preaching(study Bible). 
 These sermons consist of public domain sermons and bible commentaries. It is composed of Bible chapters. 
